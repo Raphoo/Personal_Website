@@ -84,7 +84,7 @@
   display: none !important; }
 
 .mfp-preloader {
-  color: rgb(0, 0, 0);
+  color: #CCC;
   position: absolute;
   top: 50%;
   width: auto;
